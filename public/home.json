@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "img":"https://image.freepik.com/free-icon/js-rounded-square_318-10133.jpg",
+        "name":"Javascript",
+        "description":"JavaScript (JS) is a must-have among software developers and a great starting point for beginners. Together with HTML and CSS"
+        
+    },
+    {
+        "id":2,
+        "img":"https://as2.ftcdn.net/v2/jpg/03/16/16/79/1000_F_316167997_mZRA3nERj6eLVXE41f8DwcIZhOXWbOoE.jpg",
+        "name":"Python",
+        "description":"Python stands out for being a truly user-friendly and easy to learn programming language"
+        
+    },
+    {
+        "id":3,
+        "img":"https://as1.ftcdn.net/v2/jpg/01/57/39/54/1000_F_157395473_GiyelqgNaISLqmQauwnWpoJXLGYJkpdq.jpg",
+        "name":"Java",
+        "description":"Java is particularly popular for server-client web applications. Since 2007, Sun Microsystems."
+        
+    },
+    {
+        "id":4,
+        "img":"https://as1.ftcdn.net/v2/jpg/03/98/07/42/500_F_398074223_TOb76g0LqbEcxofSD76UXsMeUnXr4BZN.jpg",
+        "name":" C#",
+        "description":"C stands out for the efficiency of its code. It is widely popular for developing system software; and also used for creating applications"
+        
+    }
+]

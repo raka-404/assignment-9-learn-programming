@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "img":"https://image.freepik.com/free-icon/js-rounded-square_318-10133.jpg",
+        "name":"Javascript",
+        "description":"JavaScript (JS) is a must-have among software developers and a great starting point for beginners. Together with HTML and CSS"
+        
+    },
+    {
+        "id":2,
+        "img":"https://as2.ftcdn.net/v2/jpg/03/16/16/79/1000_F_316167997_mZRA3nERj6eLVXE41f8DwcIZhOXWbOoE.jpg",
+        "name":"Python",
+        "description":"Python stands out for being a truly user-friendly and easy to learn programming language"
+        
+    },
+    {
+        "id":3,
+        "img":"https://as1.ftcdn.net/v2/jpg/01/57/39/54/1000_F_157395473_GiyelqgNaISLqmQauwnWpoJXLGYJkpdq.jpg",
+        "name":"Java",
+        "description":"Java is particularly popular for server-client web applications. Since 2007, Sun Microsystems"
+        
+    },
+    {
+        "id":4,
+        "img":"https://as1.ftcdn.net/v2/jpg/03/98/07/42/500_F_398074223_TOb76g0LqbEcxofSD76UXsMeUnXr4BZN.jpg",
+        "name":" C#",
+        "description":"C stands out for the efficiency of its code. It is widely popular for developing system software; and also used for creating applications"
+        
+    },
+    {
+        "id":5,
+        "img":"https://as2.ftcdn.net/v2/jpg/02/97/31/99/500_F_297319946_db9RFAwVVrJDcGdkdUKDy5HtLRqtUOuy.jpg",
+        "name":" PHP",
+        "description":"PHP is widely used for web development on the server side and for creating dynamic web page content"
+        
+    },
+    {
+        "id":6,
+        "img":"https://as2.ftcdn.net/v2/jpg/03/62/33/65/500_F_362336576_p9B6TtSeEfNPfgNirlMt7xe7Jd09AE5q.jpg",
+        "name":"C/C++",
+        "description":"C stands out for the efficiency of its code. It is widely popular for developing system software"
+        
+    },
+    {
+        "id":7,
+        "img":"https://as1.ftcdn.net/v2/jpg/02/79/55/92/1000_F_279559214_hu7wjzrN2TDWsvQhFLYFf4ijcStnOZSw.jpg",
+        "name":" Objective-C",
+        "description":"Objective-C enables the creation of easy and flexible solutions to programming problems."
+        
+    },
+    {
+        "id":8,
+        "img":"https://as2.ftcdn.net/v2/jpg/02/48/69/47/500_F_248694705_nbDjqUBg08zlWqaBEMENp9ocjN7jAiio.jpg",
+        "name":" Swift",
+        "description":"Swift is used for developing MacOS and iOS applications. It is an open-source programming language developed by Apple"
+        
+    },
+    {
+        "id":9,
+        "img":"https://as1.ftcdn.net/v2/jpg/02/47/68/38/1000_F_247683877_BcIqIGkhZilcd9YwsznxraLrMN5LW0hY.jpg",
+        "name":"TypeScript",
+        "description":"TypeScript is designed for developing large applications, JavaScript applications for client-side and server-side execution"
+        
+    }
+]
